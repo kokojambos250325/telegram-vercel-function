@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/send-to-telegram.ts": {
+      "maxDuration": 30
+    }
+  }
+}

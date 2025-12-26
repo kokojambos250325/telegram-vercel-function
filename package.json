@@ -1,0 +1,14 @@
+{
+  "name": "vercel-telegram-sender",
+  "version": "1.0.0",
+  "description": "Vercel serverless function for sending messages and files to Telegram channels",
+  "main": "api/send-to-telegram.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@vercel/node": "^3.0.0",
+    "typescript": "^5.0.0"
+  }
+}
